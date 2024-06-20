@@ -2,6 +2,7 @@ mumbai
 new delhi
 vizag
 jamnagar
+ahmedabad
 imphal 
 agra
 lucknow
