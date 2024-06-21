@@ -2,7 +2,7 @@
 
 #comments
 x=5
-y=8
+y=5
 
 sum=`expr $x + $y`
 
