@@ -9,3 +9,4 @@ agra
 lucknow
 hyderabd
 goa
+jaipur
