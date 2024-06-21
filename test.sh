@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#comments
-x=5
+#comment
+x=6
 y=5
 
 sum=`expr $x + $y`
